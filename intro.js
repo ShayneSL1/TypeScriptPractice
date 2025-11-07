@@ -5,3 +5,9 @@
     return
 
 greet("Cloud Engineer!"), all this in python */
+
+function greet(name) {
+    console.log("Hello, ${name}!");
+};
+
+greet("Cloud Engineer");
